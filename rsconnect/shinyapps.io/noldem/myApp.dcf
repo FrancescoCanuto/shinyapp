@@ -1,0 +1,12 @@
+name: myApp
+title: myApp
+username:
+account: noldem
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 351313
+bundleId: 1401018
+url: https://noldem.shinyapps.io/myApp/
+when: 1527703947.0807
+asMultiple: FALSE
+asStatic: FALSE
